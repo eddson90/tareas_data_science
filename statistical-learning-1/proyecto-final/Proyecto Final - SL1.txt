@@ -1,0 +1,10 @@
+PROYECTO FINAL DE STATISTICAL LEARNING 1
+
+Parte 1: Entrenamiento, validación y selección
+https://github.com/eddson90/tareas_data_science/blob/main/Proyecto%20Final%20SL1%20-%20Parte%201.ipynb	
+
+Parte 2: Deployment, inferencia y predicción
+https://github.com/eddson90/tareas_data_science/blob/main/Proyecto%20Final%20SL1%20-%20Parte%202.ipynb
+
+Parte 3: Investigaciones K-Fold CV, Deploy en TensorFlow y ensayo SVM
+https://github.com/eddson90/tareas_data_science/blob/main/Proyecto%20Final%20SL1%20-%20Parte%203.ipynb

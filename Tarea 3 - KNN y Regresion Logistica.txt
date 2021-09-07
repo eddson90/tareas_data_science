@@ -1,0 +1,2 @@
+Parte 1 (KNN): https://github.com/eddson90/tareas_data_science/blob/main/SL_Tarea3_K-nearest%20neighbor.ipynb
+Parte 2 (Regresion Logistica): https://github.com/eddson90/tareas_data_science/blob/main/SL_Tarea3_Fashion_mnist.ipynb

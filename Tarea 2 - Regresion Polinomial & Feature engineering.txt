@@ -1,0 +1,2 @@
+Parte 1: https://github.com/eddson90/tareas_data_science/blob/main/SL_Tarea2_Parte1.ipynb
+Parte 2: https://github.com/eddson90/tareas_data_science/blob/main/SL_Tarea2_Parte2.ipynb
